@@ -1,0 +1,20 @@
+#body
+{
+background :linear-gradient(cyan 0% , lime 100%);
+}
+
+.heading{
+background-color:rgb(82, 82, 255);
+font-size: 22px;
+font-weight: bold;
+}
+
+.name_of_objects
+{
+color :rgb(0, 0, 0)
+}
+
+label {
+
+    color : rgb(47, 59, 230)
+}
